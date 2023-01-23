@@ -1,0 +1,11 @@
+#add__form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 534px;
+
+    form{
+        display: flex;
+        flex-direction: column;
+    }
+}
